@@ -39,6 +39,7 @@ const App = () => {
       </Route>
 
       <Route path='/movies/:id' component={Movie}/>
+  
     </div>
   );
 };
